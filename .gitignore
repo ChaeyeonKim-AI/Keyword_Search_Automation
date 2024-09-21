@@ -1,0 +1,10 @@
+# Ignore system files
+.DS_Store
+
+# Ignore logs and temporary files
+process.log
+progress.txt
+
+# Ignore VSCode settings
+.vscode/
+
